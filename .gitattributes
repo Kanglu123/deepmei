@@ -1,0 +1,2 @@
+DeepMEI filter=lfs diff=lfs merge=lfs -text
+deepmei_v1.0.0 filter=lfs diff=lfs merge=lfs -text
